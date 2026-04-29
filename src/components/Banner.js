@@ -13,8 +13,8 @@ import { fadeIn } from '../variants';
 import '../index.css';
 
 const Banner = () => {
-  return <section className='section' id='home'>
-    <div className="container mx-auto pt-20">
+  return <section className='section py-8' id='home'>
+    <div className="container mx-auto py-32">
       <div className='flex flex-col gap-y-8 lg:flex-row lg:items-center lg:gap-x-12'>
         {/* Text */}
         <div className='flex-[6] text-center font-secondary lg:text-left'>

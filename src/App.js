@@ -10,7 +10,7 @@ import Contact from './components/Contact';
 
 const App = () => {
   return (
-    <div className='bg-site bg-no-repeat bg-cover overflow-hidden'>
+   <div className='bg-site bg-no-repeat bg-cover overflow-hidden flex flex-col gap-y-20'>
       <Header />
       <Banner />
       <Nav />
@@ -18,7 +18,7 @@ const App = () => {
       <Experience />
       <Travel />
       <Contact />
-      <div className='h-[4000px]'></div>
+   
     </div>
   );
 };

@@ -21,7 +21,7 @@ const About = () => {
 
   return (
 
-    <section className='section' id='about' >
+    <section className='section py-32' id='about' >
       <div className='container mx-auto'>
         <div className='flex flex-col lg:flex-row lg:items-center gap-x-20'>
           {/* Image */}
