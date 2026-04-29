@@ -5,18 +5,18 @@ import { fadeIn } from '../variants';
 const Experience = () => {
   const professionalExperiences = [
     {
-      title: 'Web Development Intern',
-      description: 'Developing and maintaining WordPress sites using Elementor and Astra theme. Implementing frontend features with React.js, focused on creating responsive layouts and optimizing user interface components.',
+      title: 'Web Developer',
       company: 'Australian Management College',
+      location: 'Brisbane, Australia',
       duration: 'March 2026 - Present',
-      location: 'Brisbane, Australia'
+      description: 'Architecting high-performance web solutions using React.js and WordPress. I focus on engineering responsive UI components with advanced React Hooks, optimizing CMS workflows via Elementor/Astra, and managing full-cycle server deployments with a focus on security and performance.'
     },
     {
-      title: 'IT Technician Support Specialist',
-      description: 'Managed IT infrastructure and technical support for a cross-border e-commerce platform. Diagnosed hardware/software issues and maintained system stability to ensure seamless business operations.',
+      title: 'IT Technical Support Specialist',
       company: 'Zundao E-Commerce Pty Ltd',
-      duration: 'June 2020 - February 2026',
-      location: 'Guangzhou, China'
+      location: 'Guangzhou, China',
+      duration: 'June 2020 - December 2020',
+      description: 'Spearheaded IT infrastructure support for a major e-commerce platform. I managed cross-channel troubleshooting for hardware, networking, and M365 systems, ensuring high operational stability through rigorous diagnostic logic and proactive asset management.'
     }
   ];
 
@@ -79,10 +79,10 @@ const Experience = () => {
             <h2 className='h2 text-accent mb-10'>Education.</h2>
             <div className='flex flex-col gap-y-8'>
               {education.map((edu, index) => (
-               
+
                 <div key={index} className='relative pl-8 border-l-2 border-accent/20 group cursor-default'>
 
-                   {/* Decoration */}
+                  {/* Decoration */}
                   <div className='absolute w-3 h-3 bg-accent rounded-full -left-[7px] top-1 
                       shadow-[0_0_10px_#b83280] 
                       transition-all duration-300 
