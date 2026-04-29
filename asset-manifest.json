@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.499ea390.css",
-    "main.js": "/personal-website/static/js/main.200add4b.js",
+    "main.css": "/personal-website/static/css/main.129e9528.css",
+    "main.js": "/personal-website/static/js/main.832b12ed.js",
     "static/media/myphoto.png": "/personal-website/static/media/myphoto.9e8f5b2fd42dd15399db.png",
     "static/media/portfolio-img2.png": "/personal-website/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
     "static/media/portfolio-img3.png": "/personal-website/static/media/portfolio-img3.e2bf250541b961cca642.png",
     "static/media/site-bg.jpg": "/personal-website/static/media/site-bg.54724d703024833ef9c6.jpg",
     "static/media/portfolio-img1.png": "/personal-website/static/media/portfolio-img1.65b23e5c313b18600f24.png",
     "static/media/avatar.png": "/personal-website/static/media/avatar.d08d1407e839a3b80885.png",
-    "static/media/logo.svg": "/personal-website/static/media/logo.1ed738f9eb92c6c36939bc033726e44c.svg",
+    "static/media/craigLogo.svg": "/personal-website/static/media/craigLogo.ebd9cfdbcbe28b80561a5485cb1e0e1a.svg",
     "index.html": "/personal-website/index.html",
-    "main.499ea390.css.map": "/personal-website/static/css/main.499ea390.css.map",
-    "main.200add4b.js.map": "/personal-website/static/js/main.200add4b.js.map"
+    "main.129e9528.css.map": "/personal-website/static/css/main.129e9528.css.map",
+    "main.832b12ed.js.map": "/personal-website/static/js/main.832b12ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.499ea390.css",
-    "static/js/main.200add4b.js"
+    "static/css/main.129e9528.css",
+    "static/js/main.832b12ed.js"
   ]
 }
